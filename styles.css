@@ -1,1 +1,50 @@
 /*  your css code here. If applicable */
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #f4f9f9;
+  margin: 20px;
+  color: #333;
+}
+
+/* Heading */
+h1 {
+  text-align: center;
+  color: #2c3e50;
+}
+
+/* Paragraph */
+p {
+  max-width: 800px;
+  margin: auto;
+  line-height: 1.6;
+  font-size: 18px;
+  text-align: center;
+}
+
+/* Section headings */
+h2 {
+  margin-top: 30px;
+  color: #00695c;
+}
+
+/* Ordered and Unordered Lists */
+ol,
+ul {
+  max-width: 800px;
+  margin: 15px auto;
+  font-size: 16px;
+}
+
+/* List items */
+li {
+  margin-bottom: 10px;
+}
+
+/* Emphasized text */
+strong {
+  color: #1b5e20;
+}
+
+em {
+  color: #004d40;
+}
